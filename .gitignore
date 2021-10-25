@@ -3,4 +3,5 @@ a.out
 *.dSYM 
 *.ko
 *.cmd
-
+*.symvers
+*.order
