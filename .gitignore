@@ -1,1 +1,6 @@
-*.o \na.out \n*.dSYM \n
+*.o 
+a.out 
+*.dSYM 
+*.ko
+*.cmd
+

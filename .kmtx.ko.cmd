@@ -1,1 +1,0 @@
-cmd_/home/hackerman/kernel/mutex/kmtx.ko := ld -r -m elf_x86_64  -z max-page-size=0x200000  --build-id  -T /usr/src/linux-headers-5.7.0-kali1-common/scripts/module-common.lds -o /home/hackerman/kernel/mutex/kmtx.ko /home/hackerman/kernel/mutex/kmtx.o /home/hackerman/kernel/mutex/kmtx.mod.o;  true
